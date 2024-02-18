@@ -27,6 +27,6 @@ Consider the balance between promotion impact and profit margins.
 Tailor promotions to product categories for optimal results.
 By understanding store performance, promotion types, and product/category dynamics, we can strategically refine our approach to drive sales growth effectively. Let's elevate our sales strategy together! 
 
-
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQb8e3iZEtB71e7YrIHFhw4ZKJzVc_RW6GFMdqF3VLZg&s" width="40" > Dashboard
 ![Screenshot 2024-02-18 074146](https://github.com/sathappanPR/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/84607354/7d8c3962-d83b-44c3-a833-d56baa92e45a)
 ![Screenshot 2024-02-18 074225](https://github.com/sathappanPR/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/84607354/632f0411-207e-4056-a0ed-a4757b9fad84)
